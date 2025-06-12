@@ -1,32 +1,12 @@
-# TEDxPVGCOET Website
+# 🎤 TEDxPVGCOET Website
 
-Welcome to the TEDxPVGCOET Website! This project is a showcase of PVGCOET's TEDx event, featuring inspiring talks and discussions.
+Welcome to the official repository of the **TEDxPVGCOET** website!  
+This project showcases the TEDx experience at PVGCOET, bringing together ideas worth spreading through powerful talks, performances, and immersive interactions.
 
-## Table of Contents
+## 🌍 About TEDxPVGCOET
 
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
+> In the spirit of ideas worth spreading, TEDx is a program of local, self-organized events that bring people together to share a TED-like experience.
 
-## Introduction
+**TEDxPVGCOET** is a TEDx event hosted at Pune Vidyarthi Griha’s College of Engineering and Technology (PVGCOET), Pune. It provides a platform to thinkers, visionaries, artists, and innovators who aim to inspire, educate, and spark meaningful conversations.
 
-This website is designed to provide information about our TEDx event, including details about speakers, schedule, and how to participate. It is built using basic HTML, CSS, and JavaScript.
-
-## Features
-
-- **Homepage:** Engaging introduction to TEDx event.
-- **Speakers:** Information about the featured speakers.
-- **Schedule:** Event schedule with details.
-- **Registration:** How to register for the event.
-
-## Installation
-
-1. Clone the repository:
-
-   ```bash
-   https://github.com/BlueHeart0065/TEDxPVGCOET.git
-   ```
+🔗 **Official Website:** [tedxpvgcoet.com](https://tedxpvgcoet.com)
